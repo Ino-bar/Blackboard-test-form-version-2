@@ -1,0 +1,26 @@
+Instructions for using Blackboard Test Form
+
+Setting up the Form
+
+The Blackboard test form consists of a macro-enabled Word document used to write questions, and a .dotx template file that contains all the question types. To use this form you will need to save the dotx template file to your default local file location, which can be found by opening Word, going to Options and then the Save option, and looking at the path listed there.
+Once you have saved the template file in the default local file location, you can save the test form to your computer to anywhere you would like. It is recommended that each time you write a new test you save the test with a new name so you always have the blank test form available to write new tests.
+
+Writing Tests
+
+1. From the drop down menu select the type of question you want to write and then click the New Question button, which will add a question of that type to the document.
+2. Write your question in the fields available, marking correct answers in red. If you have included images in an answer, highlight the correct answer in red instead.
+3. Repeat steps 1 and 2 for all the questions you want in your test.
+4. When finished, save the document with a new name as either a docm or docx file. If you save the file as docx, you will be asked if you want to save the document without macros, and in this case select yes.
+5. Email the file to fonslt@imperial.ac.uk, and also include in the email body information on the following settings for the test:
+	- The name of the test
+	- The course code and name of the course the test should be added to
+	- The score for each question (if different from the default: 1)
+	- Whether you want negative marking enabled
+	- If negative marking is enabled, whether you want to allow an overall negative score for the test
+	- Whether you want partial credit to be enabled (note: for multiple correct answer questions, if partial credit is not enabled, students must select all correct options in order to get a mark for the question
+
+Things to Note
+
+- Copying and pasting between sections can cause issues, so avoid doing so as much as possible.
+- Blackboard does not recognise equations created using Word's equation editor, so it is not possible to upload such equations to Blackboard. Currently the only method is to write equations in LaTeX, but this method requires additional processing time as Blackboard does not automatically render LaTeX in uploaded content. Otherwise, you are recommended to write questions directly in Blackboard and use the WIRIS equation editor.
+- This form does not contain all question types available in Blackboard, so if you want to use a question type not available in this form you are recommended to write the question directly in Blackboard (note that it is possible to write the majority of the test in the form then add the desired question to the uploaded test in Blackboard).
