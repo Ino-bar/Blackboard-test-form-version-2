@@ -22,5 +22,5 @@ Writing Tests
 Things to Note
 
 - Copying and pasting between sections can cause issues, so avoid doing so as much as possible.
-- Blackboard does not recognise equations created using Word's equation editor, so it is not possible to upload such equations to Blackboard. Currently the only method is to write equations in LaTeX, but this method requires additional processing time as Blackboard does not automatically render LaTeX in uploaded content. Otherwise, you are recommended to write questions directly in Blackboard and use the WIRIS equation editor.
+- Blackboard does not recognise equations created using Word's equation editor, so it is not possible to upload such equations to Blackboard. Currently the only method is to write equations in LaTeX, but this method requires additional processing time as Blackboard does not automatically render LaTeX in uploaded content.
 - This form does not contain all question types available in Blackboard, so if you want to use a question type not available in this form you are recommended to write the question directly in Blackboard (note that it is possible to write the majority of the test in the form then add the desired question to the uploaded test in Blackboard).
